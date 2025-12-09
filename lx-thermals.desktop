@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=LX Thermals
+Exec=lx-thermals
+Icon=lx-thermals
+Categories=Utility;System;Monitor;
+Terminal=false
