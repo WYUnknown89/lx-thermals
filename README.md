@@ -28,6 +28,9 @@ direct kernel interfaces (`/sys/class/hwmon`) — no background services, no blo
 - Intel CPUs
 - NVIDIA GPUs
 
+## Credits
+Created by WYUnknown89 © 2025
+
 ## Installation
 
 Download the AppImage and run:
@@ -35,7 +38,3 @@ Download the AppImage and run:
 ```bash
 chmod +x LX_Thermals-x86_64.AppImage
 ./LX_Thermals-x86_64.AppImage
-
-Credits
-
-Created by WYUnknown89 © 2025
